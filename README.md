@@ -8,4 +8,3 @@ docker-compose up -d
 ```
 
 
-<https://todo-fastapi.herokuapp.com/docs>
